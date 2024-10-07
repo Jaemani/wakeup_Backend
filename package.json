@@ -1,0 +1,24 @@
+{
+  "name": "wakeup_backend",
+  "version": "1.0.0",
+  "description": "졸음자중해~! [NIPA-Google ML 3기 1팀]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaemani/wakeup_Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaemani/wakeup_Backend/issues"
+  },
+  "homepage": "https://github.com/Jaemani/wakeup_Backend#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mysql2": "^3.11.3"
+  }
+}
